@@ -1,0 +1,198 @@
+{
+    "candidates": [
+      {
+        "id": "1",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "123-456-7890"
+      },
+      {
+        "id": "2",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "phone": "098-765-4321"
+      }
+    ],
+    "candidateDocuments": [
+      {
+        "id": "1",
+        "candidateId": 1,
+        "documents": [
+          {
+            "name": "10th Marksheet",
+            "url": "http://localhost:3009/uploads/10th_marksheet.pdf"
+          },
+          {
+            "name": "PAN Card",
+            "url": "http://localhost:3009/uploads/pan_card.pdf"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "candidateId": 2,
+        "documents": [
+          {
+            "name": "12th Marksheet",
+            "url": "http://localhost:3009/uploads/12th_marksheet.pdf"
+          }
+        ]
+      },
+      {
+        "id": "1be6",
+        "documents": [
+          {
+            "name": "12th marksheet.pdf",
+            "url": "blob:http://localhost:3000/29f08bbb-de7e-4741-a928-e7f2e35a5f46"
+          }
+        ]
+      },
+      {
+        "id": "e8a2",
+        "candidateId": "3",
+        "documents": [
+          {
+            "name": "12th marksheet.pdf"
+          }
+        ]
+      },
+      {
+        "id": "a1cc",
+        "candidateId": "3",
+        "documents": [
+          {
+            "name": "10th marksheet.pdf"
+          }
+        ]
+      },
+      {
+        "id": "11e8",
+        "candidateId": "3",
+        "documents": [
+          {
+            "name": "12th marksheet.pdf"
+          },
+          {
+            "name": "10th marksheet.pdf"
+          },
+          {
+            "name": "PAN card.pdf"
+          },
+          {
+            "name": "payslip jan.pdf"
+          },
+          {
+            "name": "Aadhar Card.pdf"
+          },
+          {
+            "name": "experience letter.pdf"
+          },
+          {
+            "name": "Passport.pdf"
+          },
+          {
+            "name": "UG certificate.pdf"
+          }
+        ]
+      },
+      {
+        "id": "6ef2",
+        "candidateId": "5",
+        "documents": [
+          {
+            "name": "10th marksheet.pdf"
+          }
+        ]
+      },
+      {
+        "id": "3252",
+        "candidateId": "5",
+        "documents": [
+          {
+            "name": "12th marksheet.pdf"
+          },
+          {
+            "name": "10th marksheet.pdf"
+          },
+          {
+            "name": "experience letter.pdf"
+          },
+          {
+            "name": "12th marksheet.pdf"
+          },
+          {
+            "name": "PAN card.pdf"
+          },
+          {
+            "name": "payslip jan.pdf"
+          },
+          {
+            "name": "Aadhar Card.pdf"
+          },
+          {
+            "name": "cluture certificate.pdf"
+          }
+        ]
+      },
+      {
+        "id": "aaf6",
+        "candidateId": "5",
+        "documents": [
+          {
+            "name": "10th marksheet.pdf"
+          },
+          {
+            "name": "10th marksheet.pdf"
+          },
+          {
+            "name": "12th marksheet.pdf"
+          },
+          {
+            "name": "PAN card.pdf"
+          },
+          {
+            "name": "Aadhar Card.pdf"
+          },
+          {
+            "name": "PaySlip-Aug_2024.pdf"
+          },
+          {
+            "name": "12th marksheet.pdf"
+          },
+          {
+            "name": "experience letter.pdf"
+          }
+        ]
+      },
+      {
+        "id": "b5db",
+        "candidateId": "5",
+        "documents": [
+          {
+            "name": "10th marksheet.pdf"
+          },
+          {
+            "name": "12th marksheet.pdf"
+          },
+          {
+            "name": "PAN card.pdf"
+          },
+          {
+            "name": "payslip jan.pdf"
+          },
+          {
+            "name": "experience letter.pdf"
+          },
+          {
+            "name": "PaySlip-Aug_2024.pdf"
+          },
+          {
+            "name": "Aadhar Card.pdf"
+          },
+          {
+            "name": "PaySlip-Aug_2024.pdf"
+          }
+        ]
+      }
+    ]
+  }

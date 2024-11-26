@@ -1,0 +1,415 @@
+{
+  "dashboardData": {
+    "employeeCount": {
+      "totalEmployees": 30,
+      "activeEmployees": 28,
+      "inactiveEmployees": 2
+    },
+    "departmentWise": [
+      {
+        "department": "Delivery",
+        "employeeCount": 15,
+        "skills": [
+          {
+            "skill": "JavaScript",
+            "candidates": 10
+          },
+          {
+            "skill": "Python",
+            "candidates": 5
+          }
+        ]
+      },
+      {
+        "department": "Enablers",
+        "employeeCount": 5,
+        "skills": [
+          {
+            "skill": "Communication",
+            "candidates": 5
+          }
+        ]
+      },
+      {
+        "department": "Management",
+        "employeeCount": 5,
+        "skills": [
+          {
+            "skill": "Excel",
+            "candidates": 5
+          }
+        ]
+      }
+    ],
+    "businessUnitWise": [
+      {
+        "businessUnit": "Business A",
+        "employeeCount": 12
+      },
+      {
+        "businessUnit": "Business B",
+        "employeeCount": 18
+      },
+      {
+        "businessUnit": "Business C",
+        "employeeCount": 10
+      }
+    ],
+    "employeeWise": [
+      {
+        "name": "John Doe",
+        "role": "Admin",
+        "employeeCount": 5,
+        "dob": "1990-11-09",
+        "avatar": "https://example.com/avatar1.jpg"
+      },
+      {
+        "name": "Jane Smith",
+        "role": "User",
+        "employeeCount": 3,
+        "dob": "1988-11-09",
+        "avatar": "https://example.com/avatar2.jpg"
+      },
+      {
+        "name": "Emily Clark",
+        "role": "Employee",
+        "employeeCount": 2,
+        "dob": "1995-11-09",
+        "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icon0.com%2Ffree%2Fstock-photo%2Favatar-man-people-icon-character-cartoon-32593.html&psig=AOvVaw3abwQ8Nzn1miQUJqQfHRZA&ust=1731226631867000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCvxvrnzokDFQAAAAAdAAAAABAE"
+      }
+    ],
+    "roleWise": [
+      {
+        "role": "Admin",
+        "employeeCount": 100
+      },
+      {
+        "role": "Bu Head",
+        "employeeCount": 50
+      },
+      {
+        "role": "Employee",
+        "employeeCount": 100
+      }
+    ],
+    "skillsStatistics": [
+      {
+        "skill": "JavaScript",
+        "totalCandidates": 10,
+        "projects": [
+          {
+            "project": "Project A",
+            "candidates": 5,
+            "status": "In Progress"
+          },
+          {
+            "project": "Project B",
+            "candidates": 3,
+            "status": "Completed"
+          }
+        ]
+      },
+      {
+        "skill": "Python",
+        "totalCandidates": 5,
+        "projects": [
+          {
+            "project": "Project C",
+            "candidates": 5,
+            "status": "In Progress"
+          },
+          {
+            "project": "Project D",
+            "candidates": 3,
+            "status": "Completed"
+          }
+        ]
+      }
+    ]
+  },
+  "adminrole": [
+    {
+      "roleId": 1,
+      "roleName": "Super Admin",
+      "roleDescription": "Full access to all features and settings.",
+      "workLocation": "Remote",
+      "id": "16c5"
+    },
+    {
+      "roleId": 2,
+      "roleName": "Admin",
+      "roleDescription": "Manage users and view reports.",
+      "workLocation": "On-site",
+      "id": "4881"
+    },
+    {
+      "roleId": 3,
+      "roleName": "Editor",
+      "roleDescription": "Edit and publish content.",
+      "workLocation": "Remote",
+      "id": "f10e"
+    },
+    {
+      "id": "0954",
+      "roleId": "1",
+      "roleName": "Giri",
+      "roleDescription": "udfghjkl",
+      "workLocation": "Virdhunagar"
+    },
+    {
+      "id": "21e2",
+      "roleId": "1",
+      "roleName": "Giri",
+      "roleDescription": "udfghjkl",
+      "workLocation": "Virdhunagar"
+    },
+    {
+      "id": "c49d",
+      "roleId": "1",
+      "roleName": "Giri",
+      "roleDescription": "udfghjkl",
+      "workLocation": "Virdhunagar"
+    },
+    {
+      "id": "c5ec",
+      "roleId": "5",
+      "roleName": "Developer",
+      "roleDescription": "tyui",
+      "workLocation": "Virdhunagar"
+    },
+    {
+      "id": "b6df",
+      "roleId": "6",
+      "roleName": "Developer",
+      "roleDescription": "tyui",
+      "workLocation": "Virdhunagar"
+    },
+    {
+      "id": "3c01",
+      "roleId": "9",
+      "roleName": "Tester",
+      "roleDescription": "dfghjk",
+      "workLocation": "Chennai"
+    },
+    {
+      "id": "7a78",
+      "roleId": "99",
+      "roleName": "Tester",
+      "roleDescription": "dfghjk",
+      "workLocation": "Chennai"
+    },
+    {
+      "id": "6837",
+      "roleName": "Admin",
+      "roleDescription": "Admin used to reapier ",
+      "workLocation": "Virdhunagar"
+    },
+    {
+      "id": "89a6",
+      "roleName": "Admin",
+      "roleDescription": "ghj",
+      "workLocation": "dfgh"
+    },
+    {
+      "id": "ba3f",
+      "roleName": "Guest",
+      "roleDescription": "Admin used to reapier ",
+      "workLocation": "Chennai"
+    },
+    {
+      "id": "886f",
+      "roleName": "User",
+      "roleDescription": "User logins ",
+      "workLocation": "Virdhunagar"
+    },
+    {
+      "id": "603d",
+      "roleName": "Guest",
+      "roleDescription": "User logins ",
+      "workLocation": "Virdhunagar",
+      "department": "IT"
+    },
+    {
+      "id": "32f4",
+      "roleName": "User",
+      "roleDescription": "Admin used to reapier ",
+      "workLocation": "Virdhunagar",
+      "department": "IT"
+    },
+    {
+      "id": "c82c",
+      "roleName": "Admin",
+      "roleDescription": "iwgdiughiaq",
+      "workLocation": "hjk",
+      "department": "jhghjk"
+    },
+    {
+      "id": "0dee",
+      "roleName": "Employee",
+      "roleDescription": "Project Manager",
+      "workLocation": "Viruthunagar",
+      "department": "IT"
+    }
+  ],
+  "roles": [
+    {
+      "id": "1",
+      "name": "Admin"
+    },
+    {
+      "id": "2",
+      "name": "User"
+    },
+    {
+      "id": "3",
+      "name": "Employee"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "user@example.com",
+      "password": "password"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "123456"
+    },
+    {
+      "id": "3",
+      "name": "New User",
+      "email": "newuser@example.com",
+      "password": "newpassword"
+    },
+    {
+      "id": "b468",
+      "name": "Ani Pitchamuthu",
+      "email": "animuthu03@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "6e8e",
+      "name": "Vasanth",
+      "email": "vasu@gmail.com",
+      "password": "123"
+    }
+  ],
+  "profile": [
+    {
+      "id": "1",
+      "name": "1x1_pixel.png",
+      "type": "image/png",
+      "size": 67,
+      "data": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAAABCAQAAACNByblAAAAHElEQVR42mP8//8/AwABI/UnDYM8AAAAAElFTkSuQmCC"
+    }
+  ],
+  "hired-count": [
+    {
+      "id": "1",
+      "count": 10
+    }
+  ],
+  "joined-count": [
+    {
+      "id": "1",
+      "count": 5
+    }
+  ],
+  "total-count": [
+    {
+      "id": "1",
+      "count": 15
+    }
+  ],
+  "mrf": [
+    {
+      "id": 5,
+      "role": "dev",
+      "resource": 10,
+      "date": "10/10/2024",
+      "name": "shakeel",
+      "Vendor": [
+        {
+          "vendorId": 1
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "role": "python",
+      "resource": 10,
+      "date": "10/10/2024",
+      "name": "shakeel",
+      "Vendor": [
+        {
+          "vendorId": 1
+        }
+      ]
+    }
+  ],
+  "data": [
+    {
+      "name": "Jan",
+      "Total Candidate": 40,
+      "Hired Candidate": 24
+    },
+    {
+      "name": "Feb",
+      "Total Candidate": 30,
+      "Hired Candidate": 13
+    },
+    {
+      "name": "Mar",
+      "Total Candidate": 20,
+      "Hired Candidate": 9
+    },
+    {
+      "name": "Apr",
+      "Total Candidate": 27,
+      "Hired Candidate": 3
+    },
+    {
+      "name": "May",
+      "Total Candidate": 18,
+      "Hired Candidate": 4
+    },
+    {
+      "name": "Jun",
+      "Total Candidate": 23,
+      "Hired Candidate": 20
+    },
+    {
+      "name": "July",
+      "Total Candidate": 34,
+      "Hired Candidate": 30
+    },
+    {
+      "name": "Aug",
+      "Total Candidate": 20,
+      "Hired Candidate": 9
+    },
+    {
+      "name": "Sep",
+      "Total Candidate": 27,
+      "Hired Candidate": 26
+    },
+    {
+      "name": "Oct",
+      "Total Candidate": 18,
+      "Hired Candidate": 4
+    },
+    {
+      "name": "Nov",
+      "Total Candidate": 23,
+      "Hired Candidate": 18
+    },
+    {
+      "name": "Dec",
+      "Total Candidate": 34,
+      "Hired Candidate": 30
+    }
+  ]
+}

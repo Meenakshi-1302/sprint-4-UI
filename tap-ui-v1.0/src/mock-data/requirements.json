@@ -1,0 +1,172 @@
+{
+  "requirements": [
+    {
+      "id": 1,
+      "requiredResourceCount": 3,
+      "probableDesignation": "Software Developer",
+      "requiredSkills":"Java, Springboot",
+      "requiredExperience":"0-2 years experience",
+      "jobLocation":"Chennai",
+      "timeline":"12-04-2024 to 15-06-2024",
+      "minimumBudget":"4lpa",
+      "maximumBudget":"8lpa",
+   
+      "client": {
+  
+        "clientName": "Acme Corp",
+        "clientPosition": "Project Manager",
+        "clientMobile": "123-456-7890",
+        "clientEmail": "pm@acme.com",
+        "clientOrganization": {
+          "organizationName": "Acme Corp",
+          "organizationLogo": "https://th.bing.com/th/id/OIP.2H7sNJU6VJjLswU0i2kIlwHaHa?rs=1&pid=ImgDetMain",
+          "organizationIndustry": "IT",
+          "organizationAddress": "123 Main St",
+          "organizationContactNumber": "987-654-3210",
+          "organizationEmail": "contact@acme.com",
+          "organizationWebsite": "https://www.acmecorp.com"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "requiredResourceCount": 3,
+      "probableDesignation": "Software Developer",
+      "requiredSkills":"Java, Springboot",
+      "requiredExperience":"0-2 years experience",
+      "jobLocation":"Chennai",
+      "timeline":"12-04-2024 to 15-06-2024",
+      "minimumBudget":"4lpa",
+      "maximumBudget":"8lpa",
+   
+      "client": {
+  
+        "clientName": "Acme Corp",
+        "clientPosition": "Project Manager",
+        "clientMobile": "123-456-7890",
+        "clientEmail": "pm@acme.com",
+        "clientOrganization": {
+          "organizationName": "Acme Corp",
+          "organizationLogo": "https://th.bing.com/th/id/OIP.2H7sNJU6VJjLswU0i2kIlwHaHa?rs=1&pid=ImgDetMain",
+          "organizationIndustry": "IT",
+          "organizationAddress": "123 Main St",
+          "organizationContactNumber": "987-654-3210",
+          "organizationEmail": "contact@acme.com",
+          "organizationWebsite": "https://www.acmecorp.com"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "requiredResourceCount": 3,
+      "probableDesignation": "Software Developer",
+      "requiredSkills":"Java, Springboot",
+      "requiredExperience":"0-2 years experience",
+      "jobLocation":"Chennai",
+      "timeline":"12-04-2024 to 15-06-2024",
+      "minimumBudget":"4lpa",
+      "maximumBudget":"8lpa",
+   
+      "client": {
+  
+        "clientName": "Acme Corp",
+        "clientPosition": "Project Manager",
+        "clientMobile": "123-456-7890",
+        "clientEmail": "pm@acme.com",
+        "clientOrganization": {
+          "organizationName": "Acme Corp",
+          "organizationLogo": "https://th.bing.com/th/id/OIP.2H7sNJU6VJjLswU0i2kIlwHaHa?rs=1&pid=ImgDetMain",
+          "organizationIndustry": "IT",
+          "organizationAddress": "123 Main St",
+          "organizationContactNumber": "987-654-3210",
+          "organizationEmail": "contact@acme.com",
+          "organizationWebsite": "https://www.acmecorp.com"
+        }
+      }
+    },{
+      "id": 4,
+      "requiredResourceCount": 3,
+      "probableDesignation": "Software Developer",
+      "requiredSkills":"Java, Springboot",
+      "requiredExperience":"0-2 years experience",
+      "jobLocation":"Chennai",
+      "timeline":"12-04-2024 to 15-06-2024",
+      "minimumBudget":"4lpa",
+      "maximumBudget":"8lpa",
+   
+      "client": {
+  
+        "clientName": "Acme Corp",
+        "clientPosition": "Project Manager",
+        "clientMobile": "123-456-7890",
+        "clientEmail": "pm@acme.com",
+        "clientOrganization": {
+          "organizationName": "Acme Corp",
+          "organizationLogo": "https://th.bing.com/th/id/OIP.2H7sNJU6VJjLswU0i2kIlwHaHa?rs=1&pid=ImgDetMain",
+          "organizationIndustry": "IT",
+          "organizationAddress": "123 Main St",
+          "organizationContactNumber": "987-654-3210",
+          "organizationEmail": "contact@acme.com",
+          "organizationWebsite": "https://www.acmecorp.com"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "requiredResourceCount": 3,
+      "probableDesignation": "Software Developer",
+      "requiredSkills":"Java, Springboot",
+      "requiredExperience":"0-2 years experience",
+      "jobLocation":"Chennai",
+      "timeline":"12-04-2024 to 15-06-2024",
+      "minimumBudget":"4lpa",
+      "maximumBudget":"8lpa",
+   
+      "client": {
+  
+        "clientName": "Acme Corp",
+        "clientPosition": "Project Manager",
+        "clientMobile": "123-456-7890",
+        "clientEmail": "pm@acme.com",
+        "clientOrganization": {
+          "organizationName": "Acme Corp",
+          "organizationLogo": "https://th.bing.com/th/id/OIP.2H7sNJU6VJjLswU0i2kIlwHaHa?rs=1&pid=ImgDetMain",
+          "organizationIndustry": "IT",
+          "organizationAddress": "123 Main St",
+          "organizationContactNumber": "987-654-3210",
+          "organizationEmail": "contact@acme.com",
+          "organizationWebsite": "https://www.acmecorp.com"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "requiredResourceCount": 3,
+      "probableDesignation": "Software Developer",
+      "requiredSkills":"Java, Springboot",
+      "requiredExperience":"0-2 years experience",
+      "jobLocation":"Chennai",
+      "timeline":"12-04-2024 to 15-06-2024",
+      "minimumBudget":"4lpa",
+      "maximumBudget":"8lpa",
+   
+      "client": {
+  
+        "clientName": "Acme Corp",
+        "clientPosition": "Project Manager",
+        "clientMobile": "123-456-7890",
+        "clientEmail": "pm@acme.com",
+        "clientOrganization": {
+          "organizationName": "Acme Corp",
+          "organizationLogo": "https://th.bing.com/th/id/OIP.2H7sNJU6VJjLswU0i2kIlwHaHa?rs=1&pid=ImgDetMain",
+          "organizationIndustry": "IT",
+          "organizationAddress": "123 Main St",
+          "organizationContactNumber": "987-654-3210",
+          "organizationEmail": "contact@acme.com",
+          "organizationWebsite": "https://www.acmecorp.com"
+        }
+      }
+    }
+
+  ]
+}

@@ -1,0 +1,31 @@
+{
+    "vendors":[
+        {
+            "vendorId": 1,
+            "organizationName": "Tech Solutions Inc.",
+            "vendorUsername": "techsolutions",
+            "email": "contact@techsolutions.com",
+            "address": "123 Tech Lane, Silicon Valley, CA, 90001",
+            "contactNumber": "+1-555-123-4567",
+            "websiteUrl": "https://www.techsolutions.com",
+            "taxIdentifyNumber": "TS123456789",
+            "password": "securePassword123",
+            "isPasswordChanged": "false",
+            "thirdPartyCredentitals": {
+              "thirdPartyCredentialsId": 1,
+              "username": "thirdPartyUser",
+              "email": "thirdparty@techsolutions.com",
+              "password": "thirdPartySecurePassword123",
+              "role": {
+                "thirdPartyRoleId": 1,
+                "role": "Admin",
+                "roleDescription": "Administrator with full access",
+                "workLocation": "Remote"
+              }
+            },
+            "contactName": "John Doe",
+            "vendorOrganizationLogo": "https://png.pngitem.com/pimgs/s/128-1284293_marina-circle-girl-picture-in-circle-png-transparent.png"
+          }
+          
+    ]
+}

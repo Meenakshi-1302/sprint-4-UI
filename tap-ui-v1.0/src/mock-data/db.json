@@ -1,0 +1,552 @@
+{
+  "MrfsRM": [
+    {
+      "mrfId": 1,
+      "mrfDepartmentName": "CSE",
+      "requirement": {
+        "requirementId": 2,
+        "totalRequiredResourceCount": 5,
+        "timeline": "2023-11-30",
+        "budget": 900.0,
+        "createdAt": "2024-11-09T14:38:27.053201",
+        "client": {
+          "clientId": 3,
+          "clientName": "Alice",
+          "clientPosition": "ProjectManager",
+          "clientMobile": "1234567890",
+          "clientEmail": "alice@gmail.com",
+          "password": "password123",
+          "clientStatus": "Pending",
+          "createdAt": "2024-11-09T08:56:50.000+00:00",
+          "otp": null,
+          "expirationTime": null,
+          "clientPartner": null,
+          "clientOrganization": {
+            "clientOrganizationId": 1,
+            "organizationName": "Tech Solutions",
+            "organizationLogo": "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",
+            "organizationIndustry": "Information Technology",
+            "organizationAddress": "123 Tech Street, Silicon Valley, CA",
+            "organizationContactNumber": "123-456-7890",
+            "organizationEmail": "info@techsolutions.com"
+          }
+        },
+        "subrequirement": [
+          {
+            "subRequirementId": 3,
+            "role": "Developer",
+            "resourceCount": 3
+          },
+          {
+            "subRequirementId": 4,
+            "role": "Tester",
+            "resourceCount": 2
+          }
+        ]
+      },
+      "subRequirements": {
+        "subRequirementId": 4,
+        "role": "Tester",
+        "resourceCount": 2
+      },
+      "mrfRequiredTechnology": "Java",
+      "probableDesignation": "Tester",
+      "requiredResourceCount": 2,
+      "requiredSkills": "Logical",
+      "createdAt": "2024-11-11T06:40:14.520+00:00",
+      "updatedAt": "2024-11-11T06:40:14.520+00:00",
+      "mrfCriteria": {
+        "mrfCriteriaId": 15,
+        "employmentMode": "Part Time",
+        "educationalQualification": "BE",
+        "yearsOfExperience": "10",
+        "minimumCTC": 10.0,
+        "maximumCTC": 12.0,
+        "contractStartDate": "2024-11-12T00:00:00.000+00:00",
+        "closureDate": "2024-11-21T00:00:00.000+00:00",
+        "jobLocation": "Madurai"
+      },
+      "mrfStatus": {
+        "mrfStatusId": 15,
+        "mrfApprovalStatus": "Pending",
+        "mrfStage": "Assigned",
+        "mrfType": "Open",
+        "descriptionForChanges": null,
+        "requirementFilled": 0
+      },
+      "mrfAgreement": {
+        "mrfAgreementId": 15,
+        "serviceLevelAgreement": "JVBERi0xLjQKJaqrrK0KNCAwIG9iag",
+        "billingCycle": "Monthly",
+        "proposedBudget": "123456",
+        "negotiatedPricePoint": "123456"
+      },
+      "jobDescriptionId": 1,
+      "businessUnitHead": {
+        "employeeId": 2,
+        "employeeEmail": "a@gmail.com",
+        "employeeStatus": "ACTIVE",
+        "createdDate": "2024-10-01 00:00:00",
+        "updatedDate": "2024-11-09 00:00:00",
+        "role": {
+          "roleId": 1,
+          "roleName": "hr",
+          "roleDescription": "hr",
+          "workLocation": "chennia",
+          "department": {
+            "departmentId": 1,
+            "departmentName": "Human Resources",
+            "departmentLocation": "Building D, 4th Floor",
+            "createdDate": "2024-11-09 14:46:25",
+            "updatedDate": "2024-11-09 14:46:25",
+            "businessUnit": {
+              "businessunitId": 1,
+              "businessUnitName": "Sales Division",
+              "description": "Responsible for managing sales operations.",
+              "businessUnitLocation": "Building A, 1st Floor",
+              "createdDate": "2024-11-09 14:43:26",
+              "updatedDate": "2024-11-09 14:43:26",
+              "organization": {
+                "organizationId": 1,
+                "organizationName": "Tech Innovations",
+                "organizationAddress": "123 Tech Lane, Silicon Valley",
+                "contactPersonName": "Alice Johnson",
+                "contactPersonEmail": "alice.johnson@example.com",
+                "contactPersonPhone": "555-123-4567",
+                "organizationWebsiteUrl": "http://techinnovations.com",
+                "industryType": "TECHNOLOGY",
+                "size": "SMALL",
+                "organizationEstablishedDate": "2020-01-15T00:00:00",
+                "organizationStatus": "ACTIVE",
+                "createdDate": "2024-11-09T14:42:43",
+                "updatedDate": "2024-11-09T14:42:43"
+              }
+            }
+          }
+        },
+        "manager": null
+      },
+      "clientPartner": {
+        "employeeId": 2,
+        "employeeEmail": "a@gmail.com",
+        "employeeStatus": "ACTIVE",
+        "createdDate": "2024-10-01 00:00:00",
+        "updatedDate": "2024-11-09 00:00:00",
+        "role": {
+          "roleId": 1,
+          "roleName": "hr",
+          "roleDescription": "hr",
+          "workLocation": "chennia",
+          "department": {
+            "departmentId": 1,
+            "departmentName": "Human Resources",
+            "departmentLocation": "Building D, 4th Floor",
+            "createdDate": "2024-11-09 14:46:25",
+            "updatedDate": "2024-11-09 14:46:25",
+            "businessUnit": {
+              "businessunitId": 1,
+              "businessUnitName": "Sales Division",
+              "description": "Responsible for managing sales operations.",
+              "businessUnitLocation": "Building A, 1st Floor",
+              "createdDate": "2024-11-09 14:43:26",
+              "updatedDate": "2024-11-09 14:43:26",
+              "organization": {
+                "organizationId": 1,
+                "organizationName": "Tech Innovations",
+                "organizationAddress": "123 Tech Lane, Silicon Valley",
+                "contactPersonName": "Alice Johnson",
+                "contactPersonEmail": "alice.johnson@example.com",
+                "contactPersonPhone": "555-123-4567",
+                "organizationWebsiteUrl": "http://techinnovations.com",
+                "industryType": "TECHNOLOGY",
+                "size": "SMALL",
+                "organizationEstablishedDate": "2020-01-15T00:00:00",
+                "organizationStatus": "ACTIVE",
+                "createdDate": "2024-11-09T14:42:43",
+                "updatedDate": "2024-11-09T14:42:43"
+              }
+            }
+          }
+        },
+        "manager": null
+      }
+    },
+    {
+      "mrfId": 2,
+      "mrfDepartmentName": "ADS",
+      "requirement": {
+        "requirementId": 3,
+        "totalRequiredResourceCount": 10,
+        "timeline": "2023-11-30",
+        "budget": 900.0,
+        "createdAt": "2024-11-09T14:38:27.053201",
+        "client": {
+          "clientId": 3,
+          "clientName": "Allen",
+          "clientPosition": "ProjectManager",
+          "clientMobile": "1234567890",
+          "clientEmail": "alice@gmail.com",
+          "password": "password123",
+          "clientStatus": "Pending",
+          "createdAt": "2024-11-09T08:56:50.000+00:00",
+          "otp": null,
+          "expirationTime": null,
+          "clientPartner": null,
+          "clientOrganization": {
+            "clientOrganizationId": 1,
+            "organizationName": "Allen Solutions",
+            "organizationLogo": "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",
+            "organizationIndustry": "Information Technology",
+            "organizationAddress": "123 Tech Street, Silicon Valley, CA",
+            "organizationContactNumber": "123-456-7890",
+            "organizationEmail": "info@techsolutions.com"
+          }
+        },
+        "subrequirement": [
+          {
+            "subRequirementId": 3,
+            "role": "DevOps",
+            "resourceCount": 5
+          },
+          {
+            "subRequirementId": 4,
+            "role": "Tester",
+            "resourceCount": 5
+          }
+        ]
+      },
+      "subRequirements": {
+        "subRequirementId":3,
+        "role": "DevOps",
+        "resourceCount": 5
+      },
+      "mrfRequiredTechnology": "DevOps",
+      "probableDesignation": "DevOps Engineer",
+      "requiredResourceCount": 5,
+      "requiredSkills": "Logical",
+      "createdAt": "2024-11-10T06:40:14.520+00:00",
+      "updatedAt": "2024-11-10T06:40:14.520+00:00",
+      "mrfCriteria": {
+        "mrfCriteriaId": 15,
+        "employmentMode": "Full Time",
+        "educationalQualification": "B.TECH",
+        "yearsOfExperience": "5",
+        "minimumCTC": 10.0,
+        "maximumCTC": 12.0,
+        "contractStartDate": "2024-11-12T00:00:00.000+00:00",
+        "closureDate": "2024-11-21T00:00:00.000+00:00",
+        "jobLocation": "Madurai"
+      },
+      "mrfStatus": {
+        "mrfStatusId": 15,
+        "mrfApprovalStatus": "Pending",
+        "mrfStage": "Not Assigned",
+        "mrfType": "Exclusive",
+        "descriptionForChanges": null,
+        "requirementFilled": 0
+      },
+      "mrfAgreement": {
+        "mrfAgreementId": 15,
+        "serviceLevelAgreement": "JVBERi0xLjQKJaqrrK0KNCAwIG9iag",
+        "billingCycle": "Monthly",
+        "proposedBudget": "123456",
+        "negotiatedPricePoint": "123456"
+      },
+      "jobDescriptionId": 1,
+      "businessUnitHead": {
+        "employeeId": 2,
+        "employeeEmail": "a@gmail.com",
+        "employeeStatus": "ACTIVE",
+        "createdDate": "2024-10-01 00:00:00",
+        "updatedDate": "2024-11-09 00:00:00",
+        "role": {
+          "roleId": 1,
+          "roleName": "hr",
+          "roleDescription": "hr",
+          "workLocation": "chennia",
+          "department": {
+            "departmentId": 1,
+            "departmentName": "Human Resources",
+            "departmentLocation": "Building D, 4th Floor",
+            "createdDate": "2024-11-09 14:46:25",
+            "updatedDate": "2024-11-09 14:46:25",
+            "businessUnit": {
+              "businessunitId": 1,
+              "businessUnitName": "Sales Division",
+              "description": "Responsible for managing sales operations.",
+              "businessUnitLocation": "Building A, 1st Floor",
+              "createdDate": "2024-11-09 14:43:26",
+              "updatedDate": "2024-11-09 14:43:26",
+              "organization": {
+                "organizationId": 1,
+                "organizationName": "Tech Innovations",
+                "organizationAddress": "123 Tech Lane, Silicon Valley",
+                "contactPersonName": "Alice Johnson",
+                "contactPersonEmail": "alice.johnson@example.com",
+                "contactPersonPhone": "555-123-4567",
+                "organizationWebsiteUrl": "http://techinnovations.com",
+                "industryType": "TECHNOLOGY",
+                "size": "SMALL",
+                "organizationEstablishedDate": "2020-01-15T00:00:00",
+                "organizationStatus": "ACTIVE",
+                "createdDate": "2024-11-09T14:42:43",
+                "updatedDate": "2024-11-09T14:42:43"
+              }
+            }
+          }
+        },
+        "manager": null
+      },
+      "clientPartner": {
+        "employeeId": 2,
+        "employeeEmail": "a@gmail.com",
+        "employeeStatus": "ACTIVE",
+        "createdDate": "2024-10-01 00:00:00",
+        "updatedDate": "2024-11-09 00:00:00",
+        "role": {
+          "roleId": 1,
+          "roleName": "hr",
+          "roleDescription": "hr",
+          "workLocation": "chennia",
+          "department": {
+            "departmentId": 1,
+            "departmentName": "Human Resources",
+            "departmentLocation": "Building D, 4th Floor",
+            "createdDate": "2024-11-09 14:46:25",
+            "updatedDate": "2024-11-09 14:46:25",
+            "businessUnit": {
+              "businessunitId": 1,
+              "businessUnitName": "Sales Division",
+              "description": "Responsible for managing sales operations.",
+              "businessUnitLocation": "Building A, 1st Floor",
+              "createdDate": "2024-11-09 14:43:26",
+              "updatedDate": "2024-11-09 14:43:26",
+              "organization": {
+                "organizationId": 1,
+                "organizationName": "Tech Innovations",
+                "organizationAddress": "123 Tech Lane, Silicon Valley",
+                "contactPersonName": "Alice Johnson",
+                "contactPersonEmail": "alice.johnson@example.com",
+                "contactPersonPhone": "555-123-4567",
+                "organizationWebsiteUrl": "http://techinnovations.com",
+                "industryType": "TECHNOLOGY",
+                "size": "SMALL",
+                "organizationEstablishedDate": "2020-01-15T00:00:00",
+                "organizationStatus": "ACTIVE",
+                "createdDate": "2024-11-09T14:42:43",
+                "updatedDate": "2024-11-09T14:42:43"
+              }
+            }
+          }
+        },
+        "manager": null
+      }
+    },
+    {
+      "mrfId": 3,
+      "mrfDepartmentName": "IT",
+      "requirement": {
+        "requirementId": 2,
+        "totalRequiredResourceCount": 5,
+        "timeline": "2023-11-30",
+        "budget": 900.0,
+        "createdAt": "2024-11-09T14:38:27.053201",
+        "client": {
+          "clientId": 3,
+          "clientName": "Daniels",
+          "clientPosition": "ProjectManager",
+          "clientMobile": "1234567890",
+          "clientEmail": "alice@gmail.com",
+          "password": "password123",
+          "clientStatus": "Pending",
+          "createdAt": "2024-11-09T08:56:50.000+00:00",
+          "otp": null,
+          "expirationTime": null,
+          "clientPartner": null,
+          "clientOrganization": {
+            "clientOrganizationId": 1,
+            "organizationName": "Dani Solutions",
+            "organizationLogo": "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",
+            "organizationIndustry": "Information Technology",
+            "organizationAddress": "123 Tech Street, Silicon Valley, CA",
+            "organizationContactNumber": "123-456-7890",
+            "organizationEmail": "info@techsolutions.com"
+          }
+        },
+        "subrequirement": [
+          {
+            "subRequirementId": 5,
+            "role": "Cloud Engineer",
+            "resourceCount": 3
+          },
+          {
+            "subRequirementId": 6,
+            "role": "System Engineer",
+            "resourceCount": 2
+          }
+        ]
+      },
+      "subRequirements": {
+        "subRequirementId": 6,
+        "role": "System Engineer",
+        "resourceCount": 2
+      },
+      "mrfRequiredTechnology": "OS, Networks, Cyber Security",
+      "probableDesignation": "System Engineer",
+      "requiredResourceCount": 2,
+      "requiredSkills": "Logical",
+      "createdAt": "2024-11-09T08:56:50.000+00:00",
+      "updatedAt": "2024-11-11T06:40:14.520+00:00",
+      "mrfCriteria": {
+        "mrfCriteriaId": 15,
+        "employmentMode": "Full Time",
+        "educationalQualification": "BE",
+        "yearsOfExperience": "10",
+        "minimumCTC": 10.0,
+        "maximumCTC": 12.0,
+        "contractStartDate": "2024-11-12T00:00:00.000+00:00",
+        "closureDate": "2024-11-21T00:00:00.000+00:00",
+        "jobLocation": "Madurai"
+      },
+      "mrfStatus": {
+        "mrfStatusId": 15,
+        "mrfApprovalStatus": "Pending",
+        "mrfStage": "Closed",
+        "mrfType": "Open",
+        "descriptionForChanges": null,
+        "requirementFilled": 0
+      },
+      "mrfAgreement": {
+        "mrfAgreementId": 15,
+        "serviceLevelAgreement": "JVBERi0xLjQKJaqrrK0KNCAwIG9iag",
+        "billingCycle": "Monthly",
+        "proposedBudget": "123456",
+        "negotiatedPricePoint": "123456"
+      },
+      "jobDescriptionId": 1,
+      "businessUnitHead": {
+        "employeeId": 2,
+        "employeeEmail": "a@gmail.com",
+        "employeeStatus": "ACTIVE",
+        "createdDate": "2024-10-01 00:00:00",
+        "updatedDate": "2024-11-09 00:00:00",
+        "role": {
+          "roleId": 1,
+          "roleName": "hr",
+          "roleDescription": "hr",
+          "workLocation": "chennia",
+          "department": {
+            "departmentId": 1,
+            "departmentName": "Human Resources",
+            "departmentLocation": "Building D, 4th Floor",
+            "createdDate": "2024-11-09 14:46:25",
+            "updatedDate": "2024-11-09 14:46:25",
+            "businessUnit": {
+              "businessunitId": 1,
+              "businessUnitName": "Sales Division",
+              "description": "Responsible for managing sales operations.",
+              "businessUnitLocation": "Building A, 1st Floor",
+              "createdDate": "2024-11-09 14:43:26",
+              "updatedDate": "2024-11-09 14:43:26",
+              "organization": {
+                "organizationId": 1,
+                "organizationName": "Tech Innovations",
+                "organizationAddress": "123 Tech Lane, Silicon Valley",
+                "contactPersonName": "Alice Johnson",
+                "contactPersonEmail": "alice.johnson@example.com",
+                "contactPersonPhone": "555-123-4567",
+                "organizationWebsiteUrl": "http://techinnovations.com",
+                "industryType": "TECHNOLOGY",
+                "size": "SMALL",
+                "organizationEstablishedDate": "2020-01-15T00:00:00",
+                "organizationStatus": "ACTIVE",
+                "createdDate": "2024-11-09T14:42:43",
+                "updatedDate": "2024-11-09T14:42:43"
+              }
+            }
+          }
+        },
+        "manager": null
+      },
+      "clientPartner": {
+        "employeeId": 2,
+        "employeeEmail": "a@gmail.com",
+        "employeeStatus": "ACTIVE",
+        "createdDate": "2024-10-01 00:00:00",
+        "updatedDate": "2024-11-09 00:00:00",
+        "role": {
+          "roleId": 1,
+          "roleName": "hr",
+          "roleDescription": "hr",
+          "workLocation": "chennia",
+          "department": {
+            "departmentId": 1,
+            "departmentName": "Human Resources",
+            "departmentLocation": "Building D, 4th Floor",
+            "createdDate": "2024-11-09 14:46:25",
+            "updatedDate": "2024-11-09 14:46:25",
+            "businessUnit": {
+              "businessunitId": 1,
+              "businessUnitName": "Sales Division",
+              "description": "Responsible for managing sales operations.",
+              "businessUnitLocation": "Building A, 1st Floor",
+              "createdDate": "2024-11-09 14:43:26",
+              "updatedDate": "2024-11-09 14:43:26",
+              "organization": {
+                "organizationId": 1,
+                "organizationName": "Tech Innovations",
+                "organizationAddress": "123 Tech Lane, Silicon Valley",
+                "contactPersonName": "Alice Johnson",
+                "contactPersonEmail": "alice.johnson@example.com",
+                "contactPersonPhone": "555-123-4567",
+                "organizationWebsiteUrl": "http://techinnovations.com",
+                "industryType": "TECHNOLOGY",
+                "size": "SMALL",
+                "organizationEstablishedDate": "2020-01-15T00:00:00",
+                "organizationStatus": "ACTIVE",
+                "createdDate": "2024-11-09T14:42:43",
+                "updatedDate": "2024-11-09T14:42:43"
+              }
+            }
+          }
+        },
+        "manager": null
+      }
+    }
+  ],
+  "approvers": [],
+  "employees": [
+    {
+      "id": "1",
+      "name": "Akshay",
+      "contact": "john@example.com",
+      "image": "https://png.pngitem.com/pimgs/s/404-4042710_circle-profile-picture-png-transparent-png.png",
+      "role": "Software Engineer"
+    },
+    {
+      "id": "2",
+      "name": "Lithi",
+      "contact": "jane@example.com",
+      "image": "https://png.pngitem.com/pimgs/s/128-1284293_marina-circle-girl-picture-in-circle-png-transparent.png",
+      "role": "Project Manager"
+    },
+    {
+      "id": "3",
+      "name": "Angelina",
+      "contact": "alice@example.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYZeZ2LduOmysSwgiQSnETsu_e82DkgEPI8HOghsnd3DLUDLbWe4od5a-6FN6otW8mjY&usqp=CAU",
+      "role": "UX Designer"
+    }
+  ],
+  "workflow": [
+    {
+      "id": "1",
+      "workflowtype": "approver",
+      "count": "3",
+      "employeeId": "3",
+      "mrfId": "1",
+      "status": "pending",
+      "reason": null
+    }
+  ]
+}
